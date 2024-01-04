@@ -5,6 +5,8 @@ This is a php wrapper for the signal rest api made by [@bbernard](https://github
 To use it, you need to create a docker for the rest api. The instructions can be seen [here](https://github.com/bbernhard/signal-cli-rest-api).
 
 Once you have a docker running, you will need  its link to create the signal object.
+SignalObjects initates every modules at the same time with the same base url, but those modules
+can also be individually initialized.
 
 ### Exemple of how to use the wrapper
 ```
