@@ -3,7 +3,7 @@
   "description": "A php wrapper for the Signal rest api made by @bbernard.",
   "autoload": {
     "psr-4": {
-      "GGuime\\Signal_api_wrapper\\": "src/"
+      "guime\\Signal_api_wrapper\\": "src/"
     }
   },
   "authors": [
