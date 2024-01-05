@@ -1,5 +1,5 @@
 <?php
-namespace Signal_api_wrapper;
+namespace guime\Signal_api_wrapper;
 
 class CallApi {
     // This class is the base for every other class in src (except SignalObject) for the use of call_to_api().

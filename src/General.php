@@ -1,5 +1,5 @@
 <?php
-namespace Signal_api_wrapper;
+namespace guime\Signal_api_wrapper;
 
 require_once('CallApi.php');
 class General extends CallApi {
