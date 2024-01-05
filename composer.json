@@ -6,6 +6,14 @@
       "GGuime\\Signal_api_wrapper\\": "src/"
     }
   },
+  "authors": [
+        {
+            "name": "Guillaume Fortin",
+            "email": "guillaumeefortin@gmail.com",
+            "role": "Developer"
+        }
+    ]
+  "license": "MIT",
   "minimum-stability": "dev",
   "prefer-stable": true
 }
