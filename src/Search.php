@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Search extends CallApi {
     public function check_registered($numbers) {

@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Contacts extends CallApi {
     public function update_contact_info($number, $expiration_in_seconds, $name, $recipient) {

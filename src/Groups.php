@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Groups extends CallApi {
     public function get_group($number, $group_id) {

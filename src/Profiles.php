@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Profiles extends CallApi {
     public function update_profile($number, $base64_avatar=NULL, $name=NULL) {

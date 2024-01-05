@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Devices extends CallApi {
     public function link_device($number, $uri) {

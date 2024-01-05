@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('Accounts.php');
 require_once('Attachments.php');
 require_once('Contacts.php');

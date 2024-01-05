@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Messages extends CallApi {
     public function receive_messages($number, $timeout=NULL, $ignore_attachments=NULL, $ignore_stories=NULL, $max_messages=NULL) {

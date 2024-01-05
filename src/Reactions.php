@@ -1,4 +1,6 @@
 <?php
+namespace Signal_api_wrapper;
+
 require_once('CallApi.php');
 Class Reactions extends CallApi {
     public function send_reaction($number, $reaction, $recipient, $target_author, $timestamp) {
