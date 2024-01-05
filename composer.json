@@ -1,5 +1,5 @@
 {
-  "name": "gguime/signal-api-wrapper",
+  "name": "guime/signal-api-wrapper",
   "description": "A php wrapper for the Signal rest api made by @bbernard.",
   "autoload": {
     "psr-4": {
