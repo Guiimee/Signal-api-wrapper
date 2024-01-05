@@ -12,7 +12,7 @@
             "email": "guillaumeefortin@gmail.com",
             "role": "Developer"
         }
-    ]
+  ],
   "license": "MIT",
   "minimum-stability": "dev",
   "prefer-stable": true
